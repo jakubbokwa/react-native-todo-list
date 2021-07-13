@@ -1,4 +1,6 @@
-# test
+# A to-do list app created with React Native
+
+## Installation: 
 
 1) Install Expo CLI
 npm install --global expo-cli
